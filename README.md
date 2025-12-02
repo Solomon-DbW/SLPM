@@ -1,7 +1,7 @@
 # SLPM - SoloLinux Package Manager
 The package manager for SoloLinux
 
-
+## Installation
 - Copy slpm to /usr/local/bin/slpm
 - Make executable
 - Run `sudo slpm init`
