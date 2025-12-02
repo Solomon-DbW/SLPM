@@ -67,7 +67,8 @@ DOCUMENTATION_URL="https://wiki.archlinux.org/"
 SUPPORT_URL="https://bbs.archlinux.org/"
 BUG_REPORT_URL="https://gitlab.archlinux.org/groups/archlinux/-/issues"
 PRIVACY_POLICY_URL="https://terms.archlinux.org/docs/privacy-policy/"
-LOGO=archlinux-logo```
+LOGO=archlinux-logo
+```
 
 If any package (e.g., filesystem, systemd) attempts to modify this file, SLPM will:
 
